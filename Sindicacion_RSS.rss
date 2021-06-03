@@ -8,12 +8,19 @@
     <link>https://clopbac.github.io/Sindicacion_RSS</link>
     <item>
       <title>El Pirineo aragonés se promociona, por fin, bajo una sola marca</title>
-      <descripcion>
+      <description>
         Las Comarcas de La Jacetania, Alto Gállego, Sobrarbe, La Ribagorza, Hoya de Huesca,
          Guara Somontano y Cinco Villas participarán conjuntamente en las Ferias de turismo
          FITUR (Madrid, 19-23 de mayo), Navartur (Pamplona, 28-30 de mayo) y B-travel (Barcelona, 11-13 de junio).
-      </descripcion>
+      </description>
       <link>https://www.pirineodigital.com/noticia.php?idnot=3373</link>
+    </item>
+    <item>
+      <title>El despertar hambriento del oso más fiero de los Pirineos</title>
+      <description>
+        Desde el fin de la hibernación, el Valle de Arán ha registrado nueve ataques a la ganadería y las colmenas.
+      </description>
+      <link>https://elpais.com/espana/catalunya/2021-06-01/el-despertar-hambriento-del-oso-mas-fiero-de-los-pirineos.html</link>
     </item>
   </channel>
 </rss>
