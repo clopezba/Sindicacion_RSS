@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Un paseo por el Pirineo</title>
+    <descripcion>
+      Rutas, noticias y consejos para visitar los Pirineos
+    </desripcion>
+    <link>http://clopbac.github.io/Sindicacion_RSS</link>
+    <item>
+      <title>El Pirineo aragonés se promociona, por fin, bajo una sola marca</title>
+      <descripcion>
+        Las Comarcas de La Jacetania, Alto Gállego, Sobrarbe, La Ribagorza, Hoya de Huesca,
+         Guara Somontano y Cinco Villas participarán conjuntamente en las Ferias de turismo
+         FITUR (Madrid, 19-23 de mayo), Navartur (Pamplona, 28-30 de mayo) y B-travel (Barcelona, 11-13 de junio).
+      </descripcion>
+      <link>http://www.pirineodigital.com/noticia.php?idnot=3373</link>
+    </item>
+  </channel>
+</rss>
